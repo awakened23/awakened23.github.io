@@ -1,0 +1,22 @@
+body {
+    font-family: brandon-grotesque, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+  }
+
+  h1 {
+    text-transform: uppercase;
+    font-size: 2rem;
+    font-weight: 900;
+  }
+
+  .lead {
+    font-family: bitter, Georgia, Times, Times New Roman, serif;
+    font-size: 13px;
+    line-height: 21px;
+  }
+
+  .images-block {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+  }
